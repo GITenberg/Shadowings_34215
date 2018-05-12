@@ -1,0 +1,42 @@
+_repo: Shadowings_34215
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Koizumi, Yakumo
+    - Xiaoquan, Bayun
+    - Hearn, Patrick Lafcadio
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: Stories from strange books. The reconciliation ; A legend of Fugen-Bosatsu
+  ; The screen-maiden ; The corpse-rider ; The sympathy of Benten ; The gratitude
+  of the Samébito -- Japanese studies. Sémi (Cicadae) ; Japanese female names ; Old
+  Japanese songs -- Fantasies. Noctilucae ; A mystery of crowds ; Gothic horror ;
+  Levitation ; Nightmare-touch ; Readings from a dream-book ; In a pair of eyes.
+gutenberg_issued: '2010-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34215'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cicada (Genus)'
+- !lcsh 'Names, Personal -- Japanese'
+- !lcsh 'Japanese poetry -- Translations into English'
+- !lcc 'PS'
+tableOfContents: 'Stories from strange books: The reconciliation. A legend of Fugen-Bosatsu.
+  The screen-maiden. The corpse-rider. The sympathy of Benten. The gratitude of the
+  Samébito -- Japanese studies: Sémi. Japanese female names. Old Japanese songs --
+  Fantasies: Noctilucae. A mystery of crowds. Gothic horror. Levitation. Nightmare-touch.
+  Readings from a dream-book. In a pair of eyes.'
+title: Shadowings
+url: http://www.gutenberg.org/ebooks/34215
